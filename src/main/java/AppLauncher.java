@@ -10,4 +10,4 @@ public class AppLauncher {
         });
     }
 }
-//git remote set-url origin https://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/daulenskript/WeatherApp
+//git remote set-url origin https://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/daulenskript/WeatherApp
